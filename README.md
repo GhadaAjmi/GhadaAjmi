@@ -28,7 +28,7 @@ const ghada = {
   school:    "ENICarthage, Charguia 2 — 2ème année",
   location:  "🇹🇳 Ariana, Tunisie",
   focus:     ["Full-Stack web", "Clean architecture", "Microservices"],
-  loves:     ["AI/ML", "WEB Dev", "Musique", "Philosophie & Psychologie"],
+  loves:     ["AI/ML", "DevOps", "Musique", "Philosophie & Psychologie"],
   seeking:   "🔍 Stage d'été 2 mois — développement web full-stack",
   motto:     "Coder proprement, livrer intelligemment.",
 };
@@ -156,12 +156,14 @@ ORDER  BY quality DESC;
 <!-- SNAKE -->
 ## 🐍 Contribution Graph
 
+> ⚙️ Le snake s'active après le premier run du workflow [generate snake](../../actions/workflows/snake.yml). Clique sur **Run workflow** dans l'onglet Actions.
+
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GhadaAjmi/GhadaAjmi/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GhadaAjmi/GhadaAjmi/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/GhadaAjmi/GhadaAjmi/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/GhadaAjmi/GhadaAjmi/output/github-contribution-grid-snake.svg" onerror="this.style.display='none'"/>
 </picture>
 
 </div>
