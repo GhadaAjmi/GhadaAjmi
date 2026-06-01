@@ -146,9 +146,6 @@ ORDER  BY quality DESC;
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=GhadaAjmi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=534AB7&title_color=534AB7" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GhadaAjmi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=534AB7" alt="Top Langs" height="165"/>
-
 </div>
 
 ---
@@ -168,6 +165,17 @@ ORDER  BY quality DESC;
 </div>
 
 ---
+
+<!-- ====================== QUOTE ====================== -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+  <img alt="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</picture>
+
+</div>
 
 <!-- LANGUAGES -->
 ## 🌐 Langues
