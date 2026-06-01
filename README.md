@@ -28,7 +28,7 @@ const ghada = {
   school:    "ENICarthage, Charguia 2 — 2ème année",
   location:  "🇹🇳 Ariana, Tunisie",
   focus:     ["Full-Stack web", "Clean architecture", "Microservices"],
-  loves:     ["AI/ML", "DevOps", "Musique", "Philosophie & Psychologie"],
+  loves:     ["AI/ML", "Web Dev", "Musique", "Philosophie & Psychologie"],
   seeking:   "🔍 Stage d'été 2 mois — développement web full-stack",
   motto:     "Coder proprement, livrer intelligemment.",
 };
@@ -156,7 +156,6 @@ ORDER  BY quality DESC;
 <!-- SNAKE -->
 ## 🐍 Contribution Graph
 
-> ⚙️ Le snake s'active après le premier run du workflow [generate snake](../../actions/workflows/snake.yml). Clique sur **Run workflow** dans l'onglet Actions.
 
 <div align="center">
 
