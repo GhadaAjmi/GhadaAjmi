@@ -1,23 +1,213 @@
-<h1 align="center">Hi 👋, I'm Ghada AJMI</h1>
-<h3 align="center">Passionate about Software Engineering, Full-Stack Web Development, and Artificial Intelligence</h3>
+<!-- HEADER -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghadaajmi&label=Profile%20views&color=0e75b6&style=flat" alt="ghadaajmi" /> </p>
+# Ghada AJMI
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghadaajmi" alt="ghadaajmi" /></a> </p>
+#### `Étudiante ingénieure · Full-Stack` · `DevOps` · `IA`
 
-- 📫 How to reach me: [ghada.ajmi@enicar.ucar.tn](ghada.ajmi@enicar.ucar.tn)
+<img src="https://img.shields.io/badge/-Développement%20web%20full--stack%20%7C%20Architecture%20propre%20%7C%20Microservices-0d1117?style=flat-square&labelColor=0d1117&color=534AB7" alt="tagline"/>
 
-- 👨‍💻 All of my projects are available at: [https://github.com/GhadaAjmi](https://github.com/GhadaAjmi)
+<br/>
 
-- ⚡ Fun fact **I enjoy combining technology, literature and music in my daily life.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  <a href="https://github.com/GhadaAjmi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/ghada-ajmi99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ghada.ajmi@enicar.ucar.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghadaajmi&show_icons=true&locale=en&layout=compact" alt="ghadaajmi" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghadaajmi&show_icons=true&locale=en" alt="ghadaajmi" /></p>
+<!-- ABOUT -->
+## 👋 À propos
+
+```ts
+const ghada = {
+  role:      "Étudiante ingénieure en informatique",
+  school:    "ENICarthage, Charguia 2 — 2ème année",
+  location:  "🇹🇳 Ariana, Tunisie",
+  focus:     ["Full-Stack web", "Clean architecture", "Microservices"],
+  loves:     ["AI/ML", "WEB Dev", "Musique", "Philosophie & Psychologie"],
+  seeking:   "🔍 Stage d'été 2 mois — développement web full-stack",
+  motto:     "Coder proprement, livrer intelligemment.",
+};
+```
+
+- 🎯 Actuellement en **2ème année cycle ingénieur informatique** à l'ENICarthage.
+- 🔐 Expérience avec **Keycloak IAM** sur des projets en production (GTI & Tritux Group).
+- 🛠️ Passionnée par les **architectures microservices** et l'intégration de solutions de paiement.
+- 🎵 Membre actif du **club Sheikh Emam** — technologie, littérature et musique se croisent dans mon quotidien.
+
+---
+
+<!-- EXPERIENCE -->
+## 💼 Expérience
+
+```bash
+$ git log --author="ghada" --format="%s" --reverse
+
+feat: stage GTI — app Ecrédit avec auth Keycloak (Angular 17, Spring, MySQL)
+feat: stage Tritux — passerelle paiement microservices (Stripe, PayPal, ClicToPay)
+```
+
+| Période | Entreprise | Mission |
+|---|---|---|
+| Août 2025 | **GTI**, Centre Urbain Nord | Application Ecrédit · Auth Keycloak · Scrum |
+| Janv – Juin 2024 | **Tritux Group**, Lac 2 | Passerelle de paiement microservices · Auth Keycloak |
+
+---
+
+<!-- TECH STACK -->
+## 🛠️ Tech Stack
+
+<table align="left">
+  <tr>
+    <td align="center" width="130"><b>Langages</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,php&theme=dark" alt="languages"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>Frontend</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap&theme=dark" alt="frontend"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>Backend</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,django,nodejs&theme=dark" alt="backend"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>Bases de données</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,oracle&theme=dark" alt="databases"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>IA & Data</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="28" alt="sklearn"/>
+      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" height="28" alt="seaborn"/>
+      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" height="28" alt="matlab"/>
+      <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" height="28" alt="hadoop"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><b>DevOps & Outils</b></td>
+    <td align="left">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,linux,postman&theme=dark" alt="devops"/></a>
+      <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" height="28" alt="keycloak"/>
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="28" alt="jira"/>
+    </td>
+  </tr>
+</table>
+
+<br clear="all"/>
+
+---
+
+<!-- PROJECTS -->
+## 🚀 Projets
+
+```bash
+$ git log --author="ghada" --oneline --shortstat
+
+★  gestion-soutenances    système de gestion des soutenances & stages universitaires
+★  ecommerce-app          boutique en ligne full-stack avec panier & gestion commandes
+★  gestion-stagiaires     système de gestion des stagiaires (HTML, PHP, MySQL)
+★  payment-gateway        passerelle microservices Stripe · PayPal · ClicToPay
+```
+
+<div align="center">
+
+[`gestion-soutenances`](https://github.com/GhadaAjmi) · [`ecommerce-app`](https://github.com/GhadaAjmi) · [`gestion-stagiaires`](https://github.com/GhadaAjmi) · [`payment-gateway`](https://github.com/GhadaAjmi)
+
+</div>
+
+---
+
+<!-- STATS -->
+## 📊 GitHub Stats
+
+```sql
+SELECT focus, commits, consistency
+FROM   ghada.daily_routine
+WHERE  mode = 'building'
+ORDER  BY quality DESC;
+-- → code propre, livré avec soin ☕
+```
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=GhadaAjmi&theme=tokyonight&hide_border=true&background=0d1117&ring=534AB7&fire=0F6E56&currStreakLabel=534AB7" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=GhadaAjmi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=534AB7&title_color=534AB7" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GhadaAjmi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=534AB7" alt="Top Langs" height="165"/>
+
+</div>
+
+---
+
+<!-- SNAKE -->
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GhadaAjmi/GhadaAjmi/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GhadaAjmi/GhadaAjmi/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/GhadaAjmi/GhadaAjmi/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+<!-- LANGUAGES -->
+## 🌐 Langues
+
+| Langue | Niveau |
+|---|---|
+| 🇹🇳 Arabe | Langue maternelle |
+| 🇫🇷 Français | B2 |
+| 🇬🇧 Anglais | B2 |
+| 🇪🇸 Espagnol | A1 |
+| 🇩🇪 Allemand | A1 |
+
+---
+
+<!-- INTERESTS -->
+## 🎵 Centres d'intérêt
+
+```bash
+$ whoami
+> ghada · ingénieure · musicienne · lectrice · philosophe
+> membre du club Sheikh Emam 🎶
+> passionnée de psychologie & d'écriture personnelle 📖
+```
+
+---
+
+<!-- FOOTER -->
+## 🤝 Me contacter
+
+```bash
+$ echo "Ouverte aux opportunités de stage, collaborations & projets open-source 🚀"
+```
+
+<div align="center">
+
+<a href="https://github.com/GhadaAjmi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/ghada-ajmi99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ghada.ajmi@enicar.ucar.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:534AB7&height=120&section=footer" alt="footer"/>
+
+</div>
