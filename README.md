@@ -3,7 +3,7 @@
 
 # Ghada AJMI
 
-#### `Étudiante ingénieure · Full-Stack` · `DevOps` · `IA`
+#### `Étudiante ingénieure · Full-Stack`  · `IA`
 
 <img src="https://img.shields.io/badge/-Développement%20web%20full--stack%20%7C%20Architecture%20propre%20%7C%20Microservices-0d1117?style=flat-square&labelColor=0d1117&color=534AB7" alt="tagline"/>
 
@@ -27,15 +27,15 @@ const ghada = {
   role:      "Étudiante ingénieure en informatique",
   school:    "ENICarthage, Charguia 2 — 2ème année",
   location:  "🇹🇳 Ariana, Tunisie",
-  focus:     ["Full-Stack web", "Clean architecture", "Microservices"],
+  focus:     ["Full-Stack web", "AI", "Microservices"],
   loves:     ["AI/ML", "Web Dev", "Musique", "Philosophie & Psychologie"],
-  seeking:   "🔍 Stage d'été 2 mois — développement web full-stack",
+  seeking:   "🔍 Stage d'été 2 mois — développement web full-stack | AI",
   motto:     "Coder proprement, livrer intelligemment.",
 };
 ```
 
 - 🎯 Actuellement en **2ème année cycle ingénieur informatique** à l'ENICarthage.
-- 🔐 Expérience avec **Keycloak IAM** sur des projets en production (GTI & Tritux Group).
+- 🔐 Expérience avec **Keycloak IAM** sur des projets (GTI & Tritux Group).
 - 🛠️ Passionnée par les **architectures microservices** et l'intégration de solutions de paiement.
 - 🎵 Membre actif du **club Sheikh Emam** — technologie, littérature et musique se croisent dans mon quotidien.
 
