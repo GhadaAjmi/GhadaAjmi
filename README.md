@@ -39,6 +39,7 @@ const ghada = {
     location: "Tunisia",
     education: "3rd Year Computer Science Engineering Student at ENICarthage",
     degree: "Bachelor's Degree in Software Engineering",
+    academicAchievement: "Major de promotion at ISIMM and ENICarthage",
     interests: [
         "Full-Stack Web Development",
         "Artificial Intelligence",
@@ -58,6 +59,7 @@ const ghada = {
 ```
 
 - 🎓 Third-year Computer Science Engineering student at **ENICarthage, Tunisia**.
+- 🏆 **Major de promotion at ISIMM and ENICarthage.**
 - 💻 Interested in Full-Stack Development, Artificial Intelligence and Software Architecture.
 - 🤖 Experienced in developing AI-powered applications and multi-agent systems.
 - 🚀 Passionate about building useful, scalable and user-friendly applications.
@@ -71,7 +73,8 @@ const ghada = {
 ## 💼 Professional Experience
 
 ### 🔹 AI Multi-Agent Product Owner Assistant
-**Tritux Group | Summer Internship**
+
+**Tritux Group | Summer Internship**  
 *June 2026 – August 2026*
 
 - Designed and developed an AI-powered assistant to support Product Owner activities.
@@ -89,7 +92,8 @@ const ghada = {
 **Technologies:** Python, Django, Angular, LangChain, LangGraph, Ollama, Llama 3, RAG, ChromaDB, Hugging Face.
 
 ### 🔹 Ecrédit Application
-**GTI | Summer Internship**
+
+**GTI | Summer Internship**  
 *August 2025*
 
 - Participated in the development of an Ecrédit application.
@@ -101,7 +105,8 @@ const ghada = {
 **Technologies:** Angular 17, Spring Boot, MySQL, Keycloak, Scrum.
 
 ### 🔹 Electronic Payment Gateway
-**Tritux Group | End-of-Studies Internship**
+
+**Tritux Group | End-of-Studies Internship**  
 *January 2024 – June 2024*
 
 - Participated in the development of an electronic payment gateway.
@@ -203,6 +208,36 @@ An application for electronic credit management with secure user authentication.
 
 ---
 
+<!-- ===================== EDUCATION ===================== -->
+
+## 🎓 Education
+
+### Engineering Degree in Computer Science
+
+**National School of Engineers of Carthage (ENICarthage)**  
+2024 – Present | 3rd Year Engineering Cycle
+
+🏆 **Major de promotion**
+
+### Bachelor's Degree in Computer Science
+
+**Software Engineering and Information Systems**  
+Higher Institute of Computer Science of Mahdia (ISIMM)  
+2021 – 2024
+
+🏆 **Major de promotion**
+
+---
+
+<!-- ===================== ACADEMIC ACHIEVEMENTS ===================== -->
+
+## 🏆 Academic Achievements
+
+- Ranked **1st in my class at ISIMM** during my Bachelor's degree.
+- Ranked **1st in my class at ENICarthage** during my Engineering studies.
+
+---
+
 <!-- ===================== CERTIFICATIONS ===================== -->
 
 ## 🏅 Certifications
@@ -211,22 +246,6 @@ An application for electronic credit management with secure user authentication.
   <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
   <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
 </p>
-
----
-
-<!-- ===================== EDUCATION ===================== -->
-
-## 🎓 Education
-
-- **Engineering Degree in Computer Science**
-  <br/>
-  National School of Engineers of Carthage (ENICarthage) | 2024 – Present
-  <br/>
-  3rd Year Engineering Cycle
-
-- **Bachelor's Degree in Computer Science – Software Engineering and Information Systems**
-  <br/>
-  Higher Institute of Computer Science of Mahdia (ISIMM) | 2021 – 2024
 
 ---
 
