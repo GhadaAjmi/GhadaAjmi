@@ -1,222 +1,322 @@
-<!-- HEADER -->
-<div align="center">
 
-# Ghada AJMI
+<!-- ===================== HEADER ===================== -->
 
-#### `Étudiante ingénieure · Full-Stack`  · `IA`
+<h1 align="center">Hi 👋, I'm Ghada Ajmi</h1>
 
-<img src="https://img.shields.io/badge/-Développement%20web%20full--stack%20%7C%20Architecture%20propre%20%7C%20Microservices-0d1117?style=flat-square&labelColor=0d1117&color=534AB7" alt="tagline"/>
+<h3 align="center">
+  3rd Year Computer Science Engineering Student | Full-Stack Developer | AI Enthusiast
+</h3>
 
-<br/>
-
-<p>
-  <a href="https://github.com/GhadaAjmi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/ghada-ajmi99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:ghada.ajmi@enicar.ucar.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Artificial+Intelligence+Enthusiast;Multi-Agent+Systems+Explorer;Looking+for+a+PFE+Internship+2027" alt="Typing SVG" />
 </p>
 
-</div>
+<p align="center">
+  <a href="mailto:ghada.ajmi@enicar.ucar.tn">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ghada-ajmi99">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/GhadaAjmi">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OPEN%20TO-PFE%20INTERNSHIP%202027-success?style=for-the-badge" alt="Open to PFE Internship"/>
+</p>
 
 ---
 
-<!-- ABOUT -->
-## 👋 À propos
+<!-- ===================== ABOUT ME ===================== -->
 
-```ts
+## 👩‍💻 About Me
+
+```typescript
 const ghada = {
-  role:      "Étudiante ingénieure en informatique",
-  school:    "ENICarthage, Charguia 2 — 2ème année",
-  location:  "🇹🇳 Ariana, Tunisie",
-  focus:     ["Full-Stack web", "AI", "Microservices"],
-  loves:     ["AI/ML", "Web Dev", "Musique", "Philosophie & Psychologie"],
-  seeking:   "🔍 Stage d'été 2 mois — développement web full-stack | AI",
-  motto:     "Coder proprement, livrer intelligemment.",
+    name: "Ghada Ajmi",
+    location: "Tunisia",
+    education: "3rd Year Computer Science Engineering Student at ENICarthage",
+    degree: "Bachelor's Degree in Software Engineering",
+    interests: [
+        "Full-Stack Web Development",
+        "Artificial Intelligence",
+        "Multi-Agent Systems",
+        "Software Architecture",
+        "Cloud Computing"
+    ],
+    currentlyLearning: [
+        "Advanced AI Applications",
+        "LLM Integration",
+        "Agentic AI",
+        "Software Engineering"
+    ],
+    lookingFor: "PFE Internship - 2027",
+    funFact: "I love combining technology, creativity and problem-solving!"
 };
 ```
 
-- 🎯 Actuellement en **2ème année cycle ingénieur informatique** à l'ENICarthage.
-- 🔐 Expérience avec **Keycloak IAM** sur des projets (GTI & Tritux Group).
-- 🛠️ Passionnée par les **architectures microservices** et l'intégration de solutions de paiement.
-- 🎵 Membre actif du **club Sheikh Emam** — technologie, littérature et musique se croisent dans mon quotidien.
+- 🎓 Third-year Computer Science Engineering student at **ENICarthage, Tunisia**.
+- 💻 Interested in Full-Stack Development, Artificial Intelligence and Software Architecture.
+- 🤖 Experienced in developing AI-powered applications and multi-agent systems.
+- 🚀 Passionate about building useful, scalable and user-friendly applications.
+- 🔍 Currently seeking a **Final Year Project (PFE) Internship for 2027** in Software Development and/or Artificial Intelligence.
+- 📚 Always curious, learning and exploring new technologies.
 
 ---
 
-<!-- EXPERIENCE -->
-## 💼 Expérience
+<!-- ===================== EXPERIENCE ===================== -->
 
-```bash
-$ git log --author="ghada" --format="%s" --reverse
+## 💼 Professional Experience
 
-feat: stage GTI — app Ecrédit avec auth Keycloak (Angular 17, Spring, MySQL)
-feat: stage Tritux — passerelle paiement microservices (Stripe, PayPal, ClicToPay)
-```
+### 🔹 AI Multi-Agent Product Owner Assistant
+**Tritux Group | Summer Internship**
+*June 2026 – August 2026*
 
-| Période | Entreprise | Mission |
-|---|---|---|
-| Août 2025 | **GTI**, Centre Urbain Nord | Application Ecrédit · Auth Keycloak · Scrum |
-| Janv – Juin 2024 | **Tritux Group**, Lac 2 | Passerelle de paiement microservices · Auth Keycloak |
+- Designed and developed an AI-powered assistant to support Product Owner activities.
+- Implemented specialized AI agents covering five product management phases:
+  - Discovery
+  - Requirements
+  - Backlog
+  - Delivery
+  - Monitoring
+- Used **LangGraph** to orchestrate agent workflows.
+- Integrated LLMs using **LangChain, Ollama and Llama 3**.
+- Implemented a Retrieval-Augmented Generation (RAG) memory system using **ChromaDB and Hugging Face Embeddings**.
+- Developed the backend using **Django REST Framework** and the frontend using **Angular**.
+
+**Technologies:** Python, Django, Angular, LangChain, LangGraph, Ollama, Llama 3, RAG, ChromaDB, Hugging Face.
+
+### 🔹 Ecrédit Application
+**GTI | Summer Internship**
+*August 2025*
+
+- Participated in the development of an Ecrédit application.
+- Implemented authentication and identity management using **Keycloak**.
+- Developed frontend components using Angular.
+- Contributed to backend development using Spring Boot.
+- Worked within an Agile Scrum environment.
+
+**Technologies:** Angular 17, Spring Boot, MySQL, Keycloak, Scrum.
+
+### 🔹 Electronic Payment Gateway
+**Tritux Group | End-of-Studies Internship**
+*January 2024 – June 2024*
+
+- Participated in the development of an electronic payment gateway.
+- Integrated multiple payment providers, including Stripe, PayPal and ClicToPay.
+- Contributed to a microservices-based architecture.
+- Implemented authentication and access management using Keycloak.
+- Worked on frontend and backend development.
+
+**Technologies:** Angular 17, Django, MySQL, Keycloak, Microservices, Scrum.
 
 ---
 
-<!-- TECH STACK -->
+<!-- ===================== TECH STACK ===================== -->
+
 ## 🛠️ Tech Stack
 
-<table align="left">
-  <tr>
-    <td align="center" width="130"><b>Langages</b></td>
-    <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,php&theme=dark" alt="languages"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130"><b>Frontend</b></td>
-    <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap&theme=dark" alt="frontend"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130"><b>Backend</b></td>
-    <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,django,nodejs&theme=dark" alt="backend"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130"><b>Bases de données</b></td>
-    <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,oracle&theme=dark" alt="databases"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130"><b>IA & Data</b></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="28" alt="sklearn"/>
-      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" height="28" alt="seaborn"/>
-      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" height="28" alt="matlab"/>
-      <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" height="28" alt="hadoop"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="130"><b>DevOps & Outils</b></td>
-    <td align="left">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,git,linux,postman&theme=dark" alt="devops"/></a>
-      <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white" height="28" alt="keycloak"/>
-      <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" height="28" alt="jira"/>
-    </td>
-  </tr>
-</table>
+### Programming Languages
 
-<br clear="all"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,js,ts" />
+</p>
 
----
+### Frontend Development
 
-<!-- PROJECTS -->
-## 🚀 Projets
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,angular,bootstrap" />
+</p>
 
-```bash
-$ git log --author="ghada" --oneline --shortstat
+### Backend Development
 
-★  gestion-soutenances    système de gestion des soutenances & stages universitaires
-★  ecommerce-app          boutique en ligne full-stack avec panier & gestion commandes
-★  gestion-stagiaires     système de gestion des stagiaires (HTML, PHP, MySQL)
-★  payment-gateway        passerelle microservices Stripe · PayPal · ClicToPay
-```
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,spring,nodejs" />
+</p>
 
-<div align="center">
+### Artificial Intelligence & Data
 
-[`gestion-soutenances`](https://github.com/GhadaAjmi) · [`ecommerce-app`](https://github.com/GhadaAjmi) · [`gestion-stagiaires`](https://github.com/GhadaAjmi) · [`payment-gateway`](https://github.com/GhadaAjmi)
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
 
-</div>
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" />
+</p>
+
+### DevOps, Tools & Other Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux" />
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+</p>
 
 ---
 
-<!-- STATS -->
-## 📊 GitHub Stats
+<!-- ===================== PROJECTS ===================== -->
 
-```sql
-SELECT focus, commits, consistency
-FROM   ghada.daily_routine
-WHERE  mode = 'building'
-ORDER  BY quality DESC;
--- → code propre, livré avec soin ☕
-```
+## 🚀 Featured Projects
 
-<div align="center">
+### 🤖 AI Multi-Agent Product Owner Assistant
 
-<img src="https://streak-stats.demolab.com?user=GhadaAjmi&theme=tokyonight&hide_border=true&background=0d1117&ring=534AB7&fire=0F6E56&currStreakLabel=534AB7" alt="GitHub Streak"/>
+An intelligent assistant designed to support and automate Product Owner activities throughout the product lifecycle.
 
-<br/><br/>
+**Key Features:**
+- Specialized AI agents for Discovery, Requirements, Backlog, Delivery and Monitoring.
+- Agent workflow orchestration with LangGraph.
+- LLM integration using Ollama and Llama 3.
+- Contextual memory using Retrieval-Augmented Generation.
+- Project knowledge storage and retrieval using ChromaDB.
+- Human validation of AI-generated outputs.
 
-</div>
+**Technologies:** Python, Django REST Framework, Angular, LangChain, LangGraph, Ollama, Llama 3, ChromaDB, RAG.
+
+### 💳 Electronic Payment Gateway
+
+A microservices-based electronic payment platform integrating several payment providers.
+
+**Key Features:**
+- Integration of Stripe, PayPal and ClicToPay.
+- Secure authentication using Keycloak.
+- Microservices architecture.
+- Frontend and backend development.
+
+**Technologies:** Angular, Django, MySQL, Keycloak, Microservices.
+
+### 💰 Ecrédit Application
+
+An application for electronic credit management with secure user authentication.
+
+**Technologies:** Angular 17, Spring Boot, MySQL, Keycloak.
 
 ---
 
-<!-- SNAKE -->
+<!-- ===================== CERTIFICATIONS ===================== -->
+
+## 🏅 Certifications
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/>
+  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
+</p>
+
+---
+
+<!-- ===================== EDUCATION ===================== -->
+
+## 🎓 Education
+
+- **Engineering Degree in Computer Science**
+  <br/>
+  National School of Engineers of Carthage (ENICarthage) | 2024 – Present
+  <br/>
+  3rd Year Engineering Cycle
+
+- **Bachelor's Degree in Computer Science – Software Engineering and Information Systems**
+  <br/>
+  Higher Institute of Computer Science of Mahdia (ISIMM) | 2021 – 2024
+
+---
+
+<!-- ===================== LANGUAGES ===================== -->
+
+## 🌍 Languages
+
+| Language | Level |
+|----------|-------|
+| Arabic | Native |
+| French | B2 – Upper Intermediate |
+| English | B2 – Upper Intermediate |
+| Spanish | A1 – Beginner |
+| German | A1 – Beginner |
+
+---
+
+<!-- ===================== INTERESTS ===================== -->
+
+## 🎯 Interests
+
+- 📚 Literature, reading and writing
+- 🎵 Classical Arabic music
+- 🧠 Psychology and philosophy
+- 🎼 Active member of Sheikh Imam Club
+- 🤖 Artificial Intelligence and emerging technologies
+
+---
+
+<!-- ===================== GITHUB STATISTICS ===================== -->
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GhadaAjmi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ghada's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhadaAjmi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhadaAjmi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+
 ## 🐍 Contribution Graph
 
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GhadaAjmi/GhadaAjmi/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GhadaAjmi/GhadaAjmi/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/GhadaAjmi/GhadaAjmi/output/github-contribution-grid-snake.svg" onerror="this.style.display='none'"/>
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GhadaAjmi/GhadaAjmi/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+</p>
 
 ---
 
-<!-- ====================== QUOTE ====================== -->
-<div align="center">
+<!-- ===================== QUOTE ===================== -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
-  <img alt="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</picture>
+## 💭 Favorite Quote
 
-</div>
-
-<!-- LANGUAGES -->
-## 🌐 Langues
-
-| Langue | Niveau |
-|---|---|
-| 🇹🇳 Arabe | Langue maternelle |
-| 🇫🇷 Français | B2 |
-| 🇬🇧 Anglais | B2 |
-| 🇪🇸 Espagnol | A1 |
-| 🇩🇪 Allemand | A1 |
+<p align="center">
+  <i>"The only way to do great work is to love what you do."</i>
+  <br/>
+  — Steve Jobs
+</p>
 
 ---
 
-<!-- INTERESTS -->
-## 🎵 Centres d'intérêt
+<!-- ===================== CONNECT ===================== -->
 
-```bash
-$ whoami
-> ghada · ingénieure · musicienne · lectrice · philosophe
-> membre du club Sheikh Emam 🎶
-> passionnée de psychologie & d'écriture personnelle 📖
-```
+## 🤝 Let's Connect!
 
----
+<p align="center">
+  I'm currently looking for a **PFE Internship for 2027** in Software Development, Full-Stack Development or Artificial Intelligence.
 
-<!-- FOOTER -->
-## 🤝 Me contacter
+  I'm always open to discussing new projects, creative ideas and professional opportunities.
+</p>
 
-```bash
-$ echo "Ouverte aux opportunités de stage, collaborations & projets open-source 🚀"
-```
+<p align="center">
+  <a href="mailto:ghada.ajmi@enicar.ucar.tn">
+    <img src="https://img.shields.io/badge/Email-ghada.ajmi%40enicar.ucar.tn-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ghada-ajmi99">
+    <img src="https://img.shields.io/badge/LinkedIn-Ghada%20Ajmi-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/GhadaAjmi">
+    <img src="https://img.shields.io/badge/GitHub-GhadaAjmi-black?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GhadaAjmi&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views"/>
+</p>
 
-<a href="https://github.com/GhadaAjmi"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/ghada-ajmi99"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:ghada.ajmi@enicar.ucar.tn"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:534AB7&height=120&section=footer" alt="footer"/>
-
-</div>
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
